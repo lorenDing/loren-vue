@@ -11,6 +11,7 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="You did it!" />
       <HelloWorld msg="hahahahahahahahhah1" />
       <HelloWorld msg="hahahahahahahahhah2" />
+      <HelloWorld msg="hahahahahahahahhah3" />
     </div>
   </header>
 
