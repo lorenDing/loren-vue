@@ -9,13 +9,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-      <HelloWorld msg="hahahahahahahahhah1" />
-      <HelloWorld msg="hahahahahahahahhah2" />
-      <HelloWorld msg="hahahahahahahahhah3" />
-      <HelloWorld msg="hahahahahahahahhah4" />
-      <HelloWorld msg="hahahahahahahahhah55" />
-      <HelloWorld msg="hahahahahahahahhah6" />
-      <HelloWorld msg="hahahahahahahahhah7" />
+      <div>loren</div>
     </div>
   </header>
 
