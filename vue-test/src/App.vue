@@ -8,6 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
+<<<<<<< HEAD
       <HelloWorld msg="You did it!" />
       <HelloWorld msg="hahahahahahahahhah1" />
       <HelloWorld msg="hahahahahahahahhah2" />
@@ -15,6 +16,12 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="hahahahahahahahhah4" />
       <HelloWorld msg="hahahahahahahahhah55" />
       <HelloWorld msg="hahahahahahahahhah6" />
+=======
+      <HelloWorld msg="loren success!!!" />
+      <HelloWorld msg="loren success!!!" />
+      <HelloWorld msg="loren success!!!" />
+      <HelloWorld msg="loren You did it!You are a greate man!!!" />
+>>>>>>> ea64f49ec464f748fde41c5ff965bfb2aa942971
     </div>
   </header>
 
